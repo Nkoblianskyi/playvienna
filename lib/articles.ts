@@ -29,7 +29,7 @@ const articles: Article[] = [
       <p>Diese Brettspiele bieten stundenlangen Spielspaß für die ganze Familie. Sie fördern nicht nur die Kommunikation und Zusammenarbeit, sondern stärken auch die familiären Bindungen. Besuchen Sie uns in unserem Geschäft in Wien, um diese und viele weitere Spiele zu entdecken.</p>
     `,
     date: "2025-03-15",
-    image: "/images/article-family-games.png",
+    image: "/images/article-family-games.jpg",
     readingTime: 8,
     category: "Brettspiele",
   },
@@ -124,7 +124,7 @@ const articles: Article[] = [
       <p>Die Geschichte der Brettspiele ist ein Spiegelbild der menschlichen Kultur und Gesellschaft. Von einfachen Würfelspielen bis hin zu komplexen Strategiespielen haben Brettspiele die Art und Weise, wie wir spielen und interagieren, geprägt. Besuchen Sie uns in unserem Geschäft in Wien, um klassische und moderne Brettspiele zu entdecken und Teil dieser fortlaufenden Geschichte zu werden.</p>
     `,
     date: "2025-04-05",
-    image: "/images/article-board-game-history.png",
+    image: "/images/article-board-game-history.jpg",
     readingTime: 15,
     category: "Brettspiele",
   },
@@ -158,7 +158,7 @@ const articles: Article[] = [
       <p>Mit der richtigen Pflege und Wartung kann Ihr Tischfußball-Tisch viele Jahre Freude bereiten. Regelmäßige Reinigung, Schmierung der Stangen und Aufmerksamkeit für Details sind der Schlüssel zur Erhaltung der Qualität und Funktionalität Ihres Tisches. Besuchen Sie uns in unserem Geschäft in Wien für weitere Pflegetipps und Zubehör für Ihren Tischfußball-Tisch.</p>
     `,
     date: "2025-02-28",
-    image: "/images/article-foosball-maintenance.png",
+    image: "/images/article-foosball-maintenance.jpg",
     readingTime: 9,
     category: "Tischfußball",
   },
@@ -192,7 +192,7 @@ const articles: Article[] = [
       <p>Ein Airhockey-Tisch kann eine großartige Ergänzung für Ihr Zuhause sein und stundenlangen Spielspaß für Familie und Freunde bieten. Mit der richtigen Recherche und Berücksichtigung Ihrer spezifischen Bedürfnisse können Sie den perfekten Tisch finden. Besuchen Sie uns in unserem Geschäft in Wien, um verschiedene Modelle zu testen und eine fundierte Entscheidung zu treffen.</p>
     `,
     date: "2025-03-10",
-    image: "/images/article-airhockey-home.png",
+    image: "/images/article-airhockey-home.jpg",
     readingTime: 11,
     category: "Airhockey",
   },

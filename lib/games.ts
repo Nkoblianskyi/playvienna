@@ -110,7 +110,7 @@ const games: Game[] = [
     description:
       "Ein vielseitiger Spieltisch, der mehrere Spiele in einem bietet, darunter Tischfußball, Airhockey, Billard und mehr. Perfekt für Familien mit unterschiedlichen Interessen.",
     category: "Multispiel",
-    image: "/images/multi-game-table.png",
+    image: "/images/multi-game-table.jpg",
     players: "2-4",
     age: 6,
     playTime: "variabel",
@@ -170,7 +170,7 @@ const games: Game[] = [
     description:
       "Ein komplexes Strategiespiel für erfahrene Spieler. Bauen Sie Ihre Zivilisation auf, erforschen Sie Technologien und führen Sie Ihre Armeen zum Sieg.",
     category: "Brettspiele",
-    image: "/images/strategy-game.png",
+    image: "/images/strategy-gam.jpg",
     players: "2-4",
     age: 12,
     playTime: "60-120",
@@ -205,27 +205,6 @@ const games: Game[] = [
       "Inklusive Queues und Kugeln",
     ],
     relatedGames: ["compact-billiard-table", "multi-game-table"],
-  },
-  {
-    slug: "deluxe-poker-set",
-    title: "Deluxe Poker-Set",
-    description:
-      "Ein luxuriöses Poker-Set mit hochwertigen Chips, Karten und einem eleganten Koffer. Perfekt für Pokerabende mit Freunden oder für Turniere zu Hause.",
-    category: "Kartenspiele",
-    image: "/images/poker-set.png",
-    players: "2-10",
-    age: 16,
-    playTime: "30-180",
-    difficulty: 3,
-    features: [
-      "300 hochwertige Keramik-Chips",
-      "Wasserfeste Spielkarten",
-      "Eleganter Aluminium-Koffer",
-      "Dealer-Button und Blinds",
-      "Professionelles Layout",
-      "Inklusive Spielanleitung für verschiedene Poker-Varianten",
-    ],
-    relatedGames: ["card-game-collection", "strategy-board-game"],
   },
   {
     slug: "giant-outdoor-chess",
